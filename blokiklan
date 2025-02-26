@@ -4465,9 +4465,6 @@
 # [google.com]
 127.0.0.1 adservice.google.com
 
-# [googleadservices.com]
-127.0.0.1 www.googleadservices.com
-
 # [googleadsserving.cn]
 127.0.0.1 static.googleadsserving.cn
 
