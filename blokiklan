@@ -4463,7 +4463,6 @@
 127.0.0.1 www.google-analytics.com
 
 # [google.com]
-127.0.0.1 ads.google.com
 127.0.0.1 adservice.google.com
 
 # [googleadservices.com]
