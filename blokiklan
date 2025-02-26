@@ -4466,7 +4466,6 @@
 127.0.0.1 adservice.google.com
 
 # [googleadservices.com]
-127.0.0.1 googleadservices.com
 127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 www.googleadservices.com
 
